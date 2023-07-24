@@ -15,3 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
   });
+  $('#modal_id').on('shown.bs.modal', function() {
+    $('input_element_id').focus();
+});
+$('#modal_id').modal('show');

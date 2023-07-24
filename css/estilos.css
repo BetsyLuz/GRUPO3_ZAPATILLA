@@ -89,3 +89,61 @@ body {
     margin-top: 7rem;
   }
 }
+  /* nosotros*/
+#contenedor1 {
+  background-color: rgb(26, 2, 56);
+  text-align: center;
+  font-family: sans-serif;
+  color: #ffffff;
+  border-radius: 0px;
+  padding: 80px;
+  width: 1000px;
+  margin: 0px;
+  
+}
+.mision{
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  font-size: 50px;
+  margin: 100px;
+}
+
+.imgmision{
+
+  width: 500px;
+  height: 300px;
+}
+
+.parrafo {
+color: #8a8484;
+
+}
+
+#historia{
+  background-color: rgba(13, 41, 10, 0.911);
+  text-align: center;
+  color: #f3f2f2;
+  border-radius: 0px;
+  padding: 80px;
+  width: 1280px;
+  margin: 0px;
+}
+.imghistoria{
+
+  width: 1000px;
+  height: 600px;
+  display: inline-block;
+}
+
+.nuestrahistoria{
+  background-color: rgba(241, 245, 240, 0.911);
+  width: 1280px;
+  height: 200px;
+  padding: 80px;
+  font-weight: bold;
+  color: #0c0c0c;
+  text-align: center;
+  font-size: 50px;
+  
+}

@@ -91,14 +91,12 @@ body {
 }
   /* nosotros*/
 #contenedor1 {
-  background-color: rgb(26, 2, 56);
+ 
   text-align: center;
   font-family: sans-serif;
-  color: #ffffff;
+  color: #1a1919;
   border-radius: 0px;
-  padding: 80px;
-  width: 1000px;
-  margin: 0px;
+  
   
 }
 .mision{
@@ -117,17 +115,15 @@ body {
 
 .parrafo {
 color: #8a8484;
+text-align: right;
 
 }
 
 #historia{
-  background-color: rgba(13, 41, 10, 0.911);
+  
   text-align: center;
-  color: #f3f2f2;
   border-radius: 0px;
-  padding: 80px;
-  width: 1280px;
-  margin: 0px;
+  
 }
 .imghistoria{
 
@@ -137,10 +133,7 @@ color: #8a8484;
 }
 
 .nuestrahistoria{
-  background-color: rgba(241, 245, 240, 0.911);
-  width: 1280px;
-  height: 200px;
-  padding: 80px;
+ 
   font-weight: bold;
   color: #0c0c0c;
   text-align: center;

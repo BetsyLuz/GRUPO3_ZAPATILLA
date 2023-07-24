@@ -5,8 +5,11 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color:slategray;
 }
+.display-4 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;}
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -25,7 +28,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
-  background-color: #777;
+  background-color:dimgrey;
 }
 .carousel-item > img {
   position: absolute;
